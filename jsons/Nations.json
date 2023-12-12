@@ -10,23 +10,23 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "Get Fucked.",
-		"attacked": "There's a Snake in my Ass",
-		"defeated": "Fuck.",
-		"introduction": "What is my purpose?",
+		"declaringWar": "It was a pleasure knowing you, goodbye.",
+		"attacked": "After I'm done with your men, I'll be sending some young Illyrian boys so their widows don't have to remain lonely.",
+		"defeated": "My kingdom may have fallen, but the Illyrian people will one day rise again!",
+		"introduction": "Hello there! I am Teuta, queen of Illyrians, and hopefully your future ally!",
 
-		"neutralHello": "Pirates are heading to your current location right now.",
-		"hateHello": "Get fucked.",
+		"neutralHello": "Hello!",
+		"hateHello": "What are you here for?",
 
-		"tradeRequest": "Normally I'd just pirate it but idk...",
+		"tradeRequest": "I see mutual benefit in this deal, don't you agree?",
 
 		"outerColor": [100,180,220],
 		"innerColor": [20,120,121],
-		"favoredReligion": "Islam",
+		"favoredReligion": "Christianity",
 		"uniqueName": "Time to incessantly commit piracy and then disappear off the face of the Earth.",
 		"uniques": ["Earn [33]% of killed [Water] unit's [Cost] as [Gold]", "[+1] Movement <in [Coastal] tiles>", "[+1 Gold] from every [Coast]", "No movement cost to pillage <for [Water] units>"],
                 "uniqueText": "Units are faster in coastal tiles, and coasts yield +1 [Gold]. Receive 1/3 of the cost of enemy water units, and Illyrian naval units pillage for free.",
-		"cities": ["Skodra","Dyrrhachion","Daorson", "Horizon", "Lissos","Bouthoe","Olcinia"],
-        "spyNames": ["Somebody fucking kill me", "Fiddledeedee", "Yarr Harr"]
+		"cities": ["Skodra","Epidamnos","Acruvium", "Rhizon", "Lissos","Epidaurum","Lychnidos","Daorson","Byllis","Aulon", "Narona", "Ulpiana","Scupi",],
+        "spyNames": ["Bardylis", "Agron", "Diteio"]
 	},
 ]
